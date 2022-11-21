@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - dragTag
+  - dragg
+  - DragParent
   layers:
   - Default
   - TransparentFX
